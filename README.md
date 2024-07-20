@@ -7,7 +7,8 @@ Welcome to the Simple Movie App! This application allows users to search for mov
 ![Screenshot (77)](https://github.com/user-attachments/assets/9f4b70e0-ce39-4062-80fa-8fb6e946c275)
 ![Screenshot (78)](https://github.com/user-attachments/assets/e2ef3eac-8105-4ec4-9496-70f32e6c7998)
 ![Screenshot (80)](https://github.com/user-attachments/assets/65888a76-c662-4d4d-aac4-2f717a9b850f)
-![Screenshot (82)](https://github.com/user-attachments/assets/254040b7-060b-493a-9ba4-6e4e731d0eb5)
+![Screenshot (85)](https://github.com/user-attachments/assets/b638787c-50ab-4469-8b8d-49e0009f19c5)
+
 
 
 ## Features
