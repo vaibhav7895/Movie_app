@@ -11,7 +11,10 @@ function Watchlist({ movies, onRemoveFromWatchlist, onMovieSelect }) {
   }
 
   return (
-    <div className="mt-8">
+    <div className="">
+      <div className='text-4xl font-semibold p-4 text-red-500'>
+      Watchlist
+      </div>
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
         {movies.map(movie => (
           <MovieItem 
