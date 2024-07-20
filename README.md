@@ -1,5 +1,5 @@
 # Simple Movie App
-# Deployed Link : https://my-project-23r5aulwe-vaibhav7895s-projects.vercel.app/auth
+# Deployed Link : https://my-project-vtfkxuuzs-vaibhav7895s-projects.vercel.app/auth
 
 Welcome to the Simple Movie App! This application allows users to search for movies, manage a watchlist, and view movie details. Below are the key features and functionalities of the app:
 
