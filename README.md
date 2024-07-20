@@ -1,6 +1,13 @@
 # Simple Movie App
 Welcome to the Simple Movie App! This application allows users to search for movies, manage a watchlist, and view movie details. Below are the key features and functionalities of the app:
 
+## Screenshots
+![Screenshot (77)](https://github.com/user-attachments/assets/9f4b70e0-ce39-4062-80fa-8fb6e946c275)
+![Screenshot (78)](https://github.com/user-attachments/assets/e2ef3eac-8105-4ec4-9496-70f32e6c7998)
+![Screenshot (80)](https://github.com/user-attachments/assets/65888a76-c662-4d4d-aac4-2f717a9b850f)
+![Screenshot (82)](https://github.com/user-attachments/assets/254040b7-060b-493a-9ba4-6e4e731d0eb5)
+
+
 ## Features
 ## Movie Search
 - Search Functionality: Users can search for any movie using the search bar.
