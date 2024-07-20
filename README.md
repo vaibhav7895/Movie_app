@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# Simple Movie App
+# Deployed Link : https://my-project-23r5aulwe-vaibhav7895s-projects.vercel.app/auth
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Simple Movie App! This application allows users to search for movies, manage a watchlist, and view movie details. Below are the key features and functionalities of the app:
 
-## Available Scripts
+## Screenshots
+![Screenshot (77)](https://github.com/user-attachments/assets/9f4b70e0-ce39-4062-80fa-8fb6e946c275)
+![Screenshot (78)](https://github.com/user-attachments/assets/e2ef3eac-8105-4ec4-9496-70f32e6c7998)
+![Screenshot (80)](https://github.com/user-attachments/assets/65888a76-c662-4d4d-aac4-2f717a9b850f)
+![Screenshot (82)](https://github.com/user-attachments/assets/254040b7-060b-493a-9ba4-6e4e731d0eb5)
 
-In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Features
+## Movie Search
+- Search Functionality: Users can search for any movie using the search bar.
+- Email Validation Required: To ensure security and personalized experience, users must validate their email address to access the search functionality.
+## Watchlist Management
+- Add to Watchlist: Users can easily add movies to their watchlist by clicking the bookmark icon on the movie poster.
+- Remove from Watchlist: To remove a movie from the watchlist, users can click the check mark icon on the movie poster.
+- Local Storage: All movies in the watchlist and user details are saved in local storage, ensuring persistence across sessions.
+## Movie Details
+- Detailed View: By clicking on a movie poster, users can view detailed information about the movie, including its synopsis, cast, release date, and more.
+ ## Responsiveness
+- Fully Responsive Design: The app is designed to be fully responsive, providing an optimal viewing experience across a wide range of devices, including desktops, tablets, and mobile phones.
