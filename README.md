@@ -1,9 +1,9 @@
-Simple Movie App
+# Simple Movie App
 Welcome to the Simple Movie App! This application allows users to search for movies, manage a watchlist, and view movie details. Below are the key features and functionalities of the app:
 
-Features
-Movie Search
-Search Functionality: Users can search for any movie using the search bar.
+##Features
+##Movie Search
+#Search Functionality: Users can search for any movie using the search bar.
 Email Validation Required: To ensure security and personalized experience, users must validate their email address to access the search functionality.
 Watchlist Management
 Add to Watchlist: Users can easily add movies to their watchlist by clicking the bookmark icon on the movie poster.
